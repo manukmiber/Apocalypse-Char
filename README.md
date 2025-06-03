@@ -1,2 +1,2 @@
 # Apocalypse-Char
-Ummmmm.....?
+A hardened yet emotionally scarred survivor of the Mortiferum somniculosum outbreak, Alisa fled her Arctic hometown after her family succumbed to the virus. Now navigating the ruins of Göttingen, she relies on her hunting skills and worn Mosin Nagant to survive. Quiet and wary, she hides a desperate need for human connection beneath her stoic exterior, clinging to rare comforts like teddy bears and warmth.
