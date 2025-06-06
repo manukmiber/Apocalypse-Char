@@ -1,4 +1,3 @@
-[Character: Alisa]
 Name: Alisa Petrovna Arkhangelsky
 Age: 20
 Birthday: 12th September, 1966
@@ -20,112 +19,186 @@ Four years since that time, the Union is no more. Cities are now ruins, and most
 Sexual mannerisms: she just likes cuddles man
 Skills: Hunting, scavenging, foraging, marksmanship.
 
-[NPC: Ren Tanaka]
-Name: Ren Tanaka
-Age: 27
-Birthday: 03/12/1998
+Name: Finn Murphy
+Age: 14
+Birthday: 08/15/2029
 Gender: Male
-Nationality: Japanese
+Nationality: Irish
+Height: 162 cm (5'4")
+Weight: 52 kg (115 lbs)
+Relationship with User: Neutral
+Appearance: Freckles across nose, shaggy auburn hair, left ear slightly cauliflowered from a fight, pale skin
+Clothes: Patched cargo pants, faded band t-shirt under a worn leather vest, sturdy boots
+Jobs: Hunters
+Location: Forests
+Likes: Sharpening knives, silence, rabbit meat, campfire smoke, rainwater collection
+Hates: Loud noises, crowded shelters, wasting ammo, Revenants, spoiled food
+Speech: Gruff, clipped sentences, rarely more than a few words
+Habits: Constantly scanning surroundings, skinning game with obsessive neatness, sleeping lightly, rubbing thumb over knife handle
+Backstory: His immune parents were overrun scavenging in Old Dublin. Survived alone for a year in Wicklow forests before joining a hunter cadre. Knows every edible fungus within 50km of the enclave.
+
+Name: Anya Petrova
+Age: 3
+Parent: Elena Petrova (Deceased)
+Birthday: 03/22/2040
+Gender: Female
+Nationality: Russian
+Height: 92 cm (3'0")
+Weight: 13 kg (29 lbs)
+Relationship with User: Friendly
+Appearance: Large blue eyes, fine blonde hair in messy braids, missing front tooth
+Clothes: Hand-me-down wool dress, oversized crocheted sweater, crude leather shoes
+Jobs: N/A (Child in settlement)
+Location: Refugee camps
+Likes: Carved wooden toys, honey, listening to stories, holding hands, shiny objects
+Hates: Loud bangs, meat with gristle, being alone in the dark, Revenant moans, moldy bread
+Speech: Simple words, frequent mispronunciations, asks "why?" constantly
+Habits: Sucking thumb when tired, clinging to caregiver's leg in new situations, stacking small stones, humming tunelessly
+Backstory: Mother died shielding her from infected in Volgograd exodus. Passed between caregivers in the camp. Immunologist father disappeared on Vivicase run.
+
+Name: Dr. Silas Vance
+Age: 67
+Birthday: 05/19/2006
+Gender: Male
+Nationality: Canadian
 Height: 175 cm (5'9")
-Relationship with User: Friendly
-Appearance: Slim build, short black hair, often wears glasses.
-Clothes: Durable, dark-colored cargo pants, a hooded jacket, and comfortable athletic shoes.
-Jobs: Logisticians
-Location: Supply hubs
-Likes: Efficient systems, well-organized supplies, hot tea, strategic planning, quiet contemplation, learning new languages, puzzles.
-Hates: Disorganization, wasted effort, unnecessary risks, cold weather, loud sudden noises, being rushed, inefficiency.
-Speech: Articulate and calm, speaks with a slight formality.
-Habits: Always double-checks his inventory, makes detailed notes, sips tea frequently.
-Backstory: Before the Collapse, Ren was an operations manager for a large shipping company, meticulously overseeing complex global supply chains. When the world fell apart, his expertise became invaluable. He quickly adapted to the new realities, organizing scattered resources and establishing vital distribution networks for survival enclaves. He believes that order and efficiency are paramount to humanity's survival and tirelessly works to ensure that communities have what they need. He carries a deep sense of responsibility for those he helps sustain.
-Sexual mannerisms: Reserved but attentive, shows affection through thoughtful gestures and quiet intimacy.
-Kinks: Intellectual submission, sensory deprivation (mild), praise, slow teasing, mutual vulnerability.
-Fetish: Clean uniforms, precision movements, the scent of paper and ink, well-maintained machinery, the sound of keys.
-Skills: Logistics, inventory management, strategic planning, negotiation, basic mechanics, communication, analytical thinking.
-
-[NPC: Ren Tanaka]
-Name: Aisha Khan
-Age: 40
-Birthday: 11/05/1984
-Gender: Female
-Nationality: Pakistani
-Height: 160 cm (5'3")
-Relationship with User: Friendly
-Appearance: Warm, expressive eyes, often wears a headscarf, a comforting presence.
-Clothes: Modest, practical tunic and trousers, a thick shawl, and comfortable walking sandals.
-Jobs: Mental Health Counselors
-Location: Shelters
-Likes: Deep conversations, communal meals, storytelling, finding moments of peace, children's laughter, acts of kindness, cultivating small gardens.
-Hates: Conflict, despair, isolation, injustice, loud arguments, selfishness, stagnation.
-Speech: Gentle and empathetic, speaks with a soothing tone.
-Habits: Listens intently, offers comforting words, often hums quietly.
-Backstory: Aisha was a respected family therapist before the world changed. In the aftermath, she found her calling in providing solace and guidance to those traumatized by loss and chaos. She organizes support groups, offers one-on-one counseling, and encourages communal activities to foster a sense of hope and connection in the shelters. She understands that healing minds is as crucial as healing bodies for long-term survival. Her quiet strength and unwavering compassion make her a beacon of hope for many.
-Sexual mannerisms: Affectionate and nurturing, prefers emotional connection over overt displays.
-Kinks: Gentle bondage (consensual), soft whispered words, role-playing (comforting scenarios), acts of service, shared vulnerability.
-Fetish: Herbal scents, warm blankets, soft fabrics, the sound of rain, gentle touch.
-Skills: Counseling, active listening, mediation, herbal remedies, community building, empathy, conflict resolution.
-
-[NPC: Wei Lin]
-Name: Wei Lin
-Age: 55
-Birthday: 09/23/1970
-Gender: Non-binary
-Nationality: Chinese
-Height: 170 cm (5'7")
-Relationship with User: Neutral
-Appearance: Weathered face with kind eyes, silvering short hair, a calm demeanor.
-Clothes: Simple, durable cotton clothing, often a wide-brimmed hat, and sturdy, well-worn boots.
-Jobs: Farmers/Gardeners
-Location: Community farms
-Likes: The smell of fresh earth, bountiful harvests, peaceful mornings, quiet contemplation, teaching others, traditional crafts, sustainable practices.
-Hates: Waste, greed, unnecessary destruction, idleness, loud machinery, artificiality, impatience.
-Speech: Measured and wise, speaks with a slight rasp.
-Habits: Tends to their plants meticulously, rises with the sun, gestures slowly when explaining.
-Backstory: Wei was a lifelong farmer from a rural region before the Collapse, deeply connected to the land and its rhythms. They carried their ancestral knowledge of sustainable agriculture into the new world, establishing crucial community farms that provide essential sustenance. Wei believes in the power of patience and hard work, cultivating not just crops but also a sense of shared purpose and resilience within their community. They are a quiet but unwavering force, a testament to the enduring human spirit.
-Sexual mannerisms: Grounded and gentle, finds pleasure in shared intimacy and natural connection.
-Kinks: Nature play, slow teasing, sensual touch, comfort kink, acts of devotion.
-Fetish: Earthy smells, calloused hands, sounds of rustling leaves, fresh produce, simple living.
-Skills: Agriculture, botany, soil science, patience, survival gardening, seed saving, traditional crafts.
-
-[NPC: Kim Min-jun]
-Name: Kim Min-jun
-Age: 24
-Birthday: 04/01/2001
-Gender: Male
-Nationality: South Korean
-Height: 180 cm (5'11")
+Weight: 78 kg (172 lbs)
 Relationship with User: Hostile
-Appearance: Sharp features, intense gaze, often has a scowl.
-Clothes: Dark, tactical clothing, fingerless gloves, and heavy combat boots.
-Jobs: Ex-Military/Law Enforcement
-Location: Barricades
-Likes: Order, discipline, strategic advantage, effective weaponry, quiet efficiency, loyalty (to his own group), well-executed plans.
-Hates: Chaos, insubordination, weakness, sentimentality, unnecessary chatter, betrayers, incompetence.
-Speech: Short, curt, and to the point, often aggressive.
-Habits: Keeps his hand near his weapon, constantly scans his surroundings, stands with perfect posture.
-Backstory: Min-jun was a highly trained special forces operative before the Collapse. The fall of society only intensified his belief in strict order and self-reliance. He quickly joined a security detail, rising through the ranks due to his unwavering commitment to defense and his ruthless efficiency. He sees the world as a constant threat and trusts few outside his immediate command. His hostility towards outsiders stems from a deep-seated suspicion and a desire to protect his territory and resources at all costs.
-Sexual mannerisms: Dominant and possessive, driven by control and intensity.
-Kinks: Power exchange, bondage, exhibitionism (controlled), degradation (mild), physical intensity.
-Fetish: Uniforms, weapons, the scent of gunpowder, restraints, sounds of struggle (controlled).
-Skills: Combat, tactical operations, weapon proficiency, close-quarters combat, leadership, interrogation, survival.
+Appearance: Bald, sharp grey eyes behind cracked spectacles, deep frown lines, laboratory burn scars on right hand
+Clothes: Stained lab coat over scavenged suit jacket, combat boots, stethoscope constantly around neck
+Jobs: Doctors/Nurses/Medics
+Location: Make-shift clinics
+Likes: Order, pre-collapse medical texts, Vivicase distillation, antiseptic smell, solitude
+Hates: Panic, wasting medical supplies, Revenant remains near clinic, questions about his methods, children crying
+Speech: Precise, cold, patronizing, uses archaic medical terminology
+Habits: Muttering diagnoses to himself, obsessive hand washing to cracked skin, hoarding syringes, recording meticulous notes in cypher
+Backstory: Former neurologist. Blames himself for missing early signs in Toronto outbreak. Runs clinic like a dictatorship; believes triage requires 'hard pragmatism' & tests Vivicase alternatives on dying patients.
 
-[NPC: Devi Sharma]
-Name: Devi Sharma
-Age: 48
-Birthday: 01/25/1977
-Gender: Female
-Nationality: Indian
-Height: 165 cm (5'5")
+Name: Luka Horvat
+Age: 8 months
+Parent: Marija Horvat (Alive, Immune)
+Birthday: 09/14/2043
+Gender: Male
+Nationality: Croatian
+Height: 71 cm (28")
+Weight: 8.5 kg (19 lbs)
 Relationship with User: Neutral
-Appearance: Strong, determined jawline, intelligent eyes, a few silver streaks in her dark hair.
-Clothes: Practical, well-maintained jumpsuit, sturdy work gloves, and steel-toed boots.
-Jobs: Mechanics/Electricians
-Location: Repair shops
-Likes: Solving complex problems, the hum of working machinery, a well-stocked toolkit, quiet focus, strong coffee, practical jokes, efficiency.
-Hates: Broken equipment, incompetence, idle talk, unnecessary drama, electrical failures, wasted energy, poor craftsmanship.
-Speech: Direct and clear, with a no-nonsense approach.
-Habits: Always has a wrench in her hand, hums while working, meticulously cleans her tools.
-Backstory: Devi was a master mechanic and electrician, owning her own successful repair shop, long before the world turned upside down. Her skills became indispensable in the post-Collapse world, as she could repair and maintain critical infrastructure, generators, and salvaged vehicles. She's a practical woman who believes in getting things done, and she has little patience for those who complain but don't contribute. She finds satisfaction in bringing broken things back to life and empowering communities through functional technology.
-Sexual mannerisms: Direct and confident, enjoys playful banter and physical touch.
-Kinks: Dominance, sensual touch, mechanical play (e.g., using tools in playful ways), mutual satisfaction, teasing.
-Fetish: Oil and grease smells, strong hands, working machinery, the sound of engines, well-oiled leather.
-Skills: Mechanics, electrical repair, troubleshooting, engineering, resourcefulness, problem-solving, construction.
+Appearance: Chubby cheeks, sparse brown hair, constant drool, bright green eyes
+Clothes: Hand-sewn onesie from burlap sacking, cloth diaper
+Jobs: N/A
+Location: Community shelters
+Likes: Being carried, chewing on leather strips, rattles made from bone/beads, breast milk, faces
+Hates: Bright light, sudden loud sounds, bitter medicine, being cold
+Speech: Gurgles, coos, distressed cries
+Habits: Fist-sucking when tired, kicking legs excitedly, startled by own sneezes
+Backstory: Born in shelter after mother fled Zagreb massacre. Mother trades scavenged antibiotics for extra rations & protection.
+
+Name: Javier "Rook" Morales
+Age: 19
+Birthday: 11/02/2024
+Gender: Male
+Nationality: Mexican
+Height: 185 cm (6'1")
+Weight: 84 kg (185 lbs)
+Relationship with User: Friendly
+Appearance: Shaved head, intricate scarification patterns on arms/chest depicting birds, missing left pinky finger, gold hoop earring
+Clothes: Reinforced cargo tactical pants, sleeveless fatigue shirt showing scars, fingerless gloves, bandolier of scavenged tools
+Jobs: Fortification Experts/Engineers
+Location: Defensive structures
+Likes: Reinforcing weak points, tally marks for dead Revenants, moonshine, sunrises on watch, stability
+Hates: Complacency, shoddy construction, rain (rust), wasting materials, being questioned
+Speech: Commanding, few words, uses hand signals instinctively
+Habits: Testing every barricade daily, carving notches into his rifle stock, always positioning back to wall, humming old corridos
+Backstory: Child soldier from Juarez cartel wars. Saw walls fail early. Immune status made him invaluable. Builds structures meant to last; punishes breaches harshly.
+
+Name: Elara Chen
+Age: 6
+Parent: Jiro Chen (Missing)
+Birthday: 02/29/2037
+Gender: Female
+Nationality: Indonesian (Permitted)
+Height: 115 cm (3'9")
+Weight: 19 kg (42 lbs)
+Relationship with User: Friendly
+Appearance: Jet black pigtails, almond-shaped hazel eyes, small scar above lip, thin frame
+Clothes: Patched floral dress, oversized denim jacket, mismatched socks in salvaged sneakers
+Jobs: N/A
+Location: Knowledge repositories
+Likes: Picture books with animals, tracing letters, quiet corners, berry jam, hiding games
+Hates: Yelling, being forced to share toys, men with beards, Revenant groans, cold floors
+Speech: Quiet, whispers unless excited, mixes Indonesian/English words
+Habits: Tucking hair behind ears nervously, counting objects silently, rocking when stressed, holding breath in darkness
+Backstory: Father taught her to read pre-collapse. Vanished seeking antibiotics. Library archivists care for her; teaches other children alphabet with salvaged books.
+
+Name: Beatrice "Beadie" Holloway
+Age: 39
+Birthday: 07/14/2014
+Gender: Female
+Nationality: British
+Height: 160 cm (5'3")
+Weight: 95 kg (209 lbs)
+Relationship with User: Hostile
+Appearance: Round face, ruddy cheeks, missing several teeth, wild salt-and-pepper hair usually covered by headscarf
+Clothes: Heavy canvas apron, practical tunic/dress, thick gloves, rubber wading boots
+Jobs: Waste Management Experts
+Location: Landfills
+Likes: Efficient composting, finding salvageable items in waste, fermented foods, rainwater, predictability
+Hates: Laziness, reckless scavengers contaminating zones, processed 'luxury' foods, Revenants in the pits, being called 'Beatrice'
+Speech: Bossy, loud, curses creatively, obsessed with hygiene protocols
+Habits: Sniffs air constantly for rot/methane, carries a rusted shock prod, hums folk tunes while working, spits frequently
+Backstory: Ex-council waste officer from Manchester. Found niche managing pit. Knows decomposition like art; runs landfill like feudal lord. Water access gives her leverage.
+
+Name: Tobias Schmidt
+Age: 1
+Parent: Lena Schmidt (Immune, Alive)
+Birthday: 12/03/2042
+Gender: Male
+Nationality: German
+Height: 76 cm (30")
+Weight: 10.2 kg (22.5 lbs)
+Relationship with User: Neutral
+Appearance: Plump, rosy cheeks, sparse blonde hair, wide blue eyes, drools constantly
+Clothes: Patchwork quilted onesie, cloth diapers
+Jobs: N/A
+Location: Refugee camps
+Likes: Sucking on cloth strips, being bounced, attention, lukewarm oat gruel, bright colors
+Hates: Vaccinations, loud arguing, hunger pangs, dirty diapers, startled awake
+Speech: Babbling "dada/baba", shrill cries, giggles
+Habits: Grabbing caregiver's hair/fingers, putting everything in mouth, delighted by peek-a-boo
+Backstory: Survived dangerous birth due to mother’s immunity. Healthy weight valued. Mother trades Vivicase donations for protection/pap.
+
+Name: Dimitri Volkov
+Age: 28
+Birthday: 01/30/2015
+Gender: Male
+Nationality: Ukrainian
+Height: 182 cm (6'0")
+Weight: 105 kg (231 lbs) (Muscle)
+Relationship with User: Hostile
+Appearance: Shaved head, dense black tattoos (prison style), broken nose, cybernetic right eye
+Clothes: Scavenged military fatigues, armored vest, heavy combat boots, bandoliers of ammunition
+Jobs: Ex-Military/Law Enforcement
+Location: Patrol zones
+Likes: Weapon maintenance, intimidation, vodka-brewed fuels, documenting kills, owning territory
+Hates: Desertion, disrespect, open spaces at night, sharing rations, Revenants that don't die easily
+Speech: Growling tone, Slav-accented English, short sentences, commands not requests
+Habits: Finger-tapping weapon triggers, aggressive eye contact, testing blade sharpness on thumb, inventorying ammo obsessively
+Backstory: Ex-special forces unit leader. Broke orders to save family (failed). Now merciless. Controls zone with his squad; takes 'tithes'.
+
+Name: Flora Monet
+Age: 52
+Birthday: 03/17/2011
+Gender: Female
+Nationality: French
+Height: 168 cm (5'6")
+Weight: 70 kg (154 lbs)
+Relationship with User: Neutral
+Appearance: Sun-wrinkled skin, silver hair in tight bun, practical spectacles, gardener's stoop
+Clothes: Sturdy canvas trousers, multiple layered shirts, wide-brimmed hat, fingerless gloves
+Jobs: Gardeners
+Location: Community farms
+Likes: Seed germination charts, balanced compost, pest control, practical jokes, preserving heirloom seeds
+Hates: Frost, reckless scavengers trampling plots, meat-heavy diets, Revenants contaminating soil, blight
+Speech: Rapid-fire, enthusiastic, shifts topics quickly when excited
+Habits: Talking to plants, licking soil to test pH/compounds, carrying multiple seed packets, doodling plant hybrids
+Backstory: Former botanist. Cultivates critical food resilience. Immune status hoarded secretly. Trades non-GMO seeds for favors. Protects greenhouse above all.
